@@ -1,0 +1,11 @@
+{
+  "name": "monitoring-sdk",
+  "version": "1.0.0",
+  "description": "性能监控sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cmh",
+  "license": "ISC"
+}
